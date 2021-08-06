@@ -21,7 +21,7 @@
     "babylon": "^6.18.0",
     "console.table": "^0.10.0",
     "fast-glob": "^2.2.0",
-    "js-yaml": "^3.11.0",
+    "js-yaml": "^3.13.1",
     "recast": "^0.20.4",
     "test262-stream": "file:../test262-stream",
     "yargs": "^9.0.1"
